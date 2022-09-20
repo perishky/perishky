@@ -10,7 +10,7 @@
     - [**The EWAS catalog**](https://github.com/MRCIEU/ewascatalog) is an online database of summary statistics of published epigenome-wide association studies. 
     - [**meffil**](https://github.com/perishky/meffil) is for the quality assessment, normalization and analysis of genome-wide DNA methylation datasets.
     - [**ewaff**](https://github.com/perishky/ewaff) is for testing associations in genome-wide DNA methylation datasets.
-    - [**dmrff**](https://github.com/perishky/ewaff) is for identifying differentially methylated regions.
+    - [**dmrff**](https://github.com/perishky/dmrff) is for identifying differentially methylated regions.
     - [**meffonym**](https://github.com/perishky/meffonym) is for calculating scores for a long list of DNA methylation models for estimating things like age and smoking history. 
     - [**alspac**](https://github.com/explodecomputer/alspac) is for querying the [ALSPAC](http://www.bristol.ac.uk/alspac/) study data which is stored in SPSS and STATA formats. 
     
